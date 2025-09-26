@@ -7,18 +7,18 @@
             "name": "Paw Network Verified"
         },
         "roles_to_check": {
-            1333248688738406453: "Manually Age Verified",
-            1405233037582663791: "NV_Age Verified",
+            "1333248688738406453": "Manually Age Verified",
+            "1405233037582663791": "NV_Age Verified"
         },
         "unverified_roles": {
-            1405276168202096646: "Unverified"
+            "1405276168202096646": "Unverified"
         },
         "owner_roles": {
-            1333238516204830772: "Owner"
+            "1333238516204830772": "Owner"
         },
         "staff_roles": {
-            1414622599819821088: "Staff",
-            1333243953402871839: "Staff"
+            "1414622599819821088": "Staff",
+            "1333243953402871839": "Staff"
         }
     },
     "neocity": {
@@ -29,18 +29,18 @@
             "name": "Paw Network Verified"
         },
         "roles_to_check": {
-            1303758361904414750: "Verified Adult",
+            "1303758361904414750": "Verified Adult"
         },
         "unverified_roles": {
-            13423060222001217637: "Unverified"
+            "13423060222001217637": "Unverified"
         },
         "owner_roles": {
-            1303674636730503188: "Owner"
+            "1303674636730503188": "Owner"
         },
         "staff_roles": {
-            1303674774035103746: "Staff",
-            1303674884810997760: "Staff",
-            1303759099028176976: "Staff In-Training"
+            "1303674774035103746": "Staff",
+            "1303674884810997760": "Staff",
+            "1303759099028176976": "Staff In-Training"
         }
     },
     "golgi-s_church": {
@@ -51,18 +51,18 @@
             "name": "Paw Network Verified"
         },
         "roles_to_check": {
-            1374112419269447690: "ID Verified",
-            1405362015790436372: "VRChat Verified",
+            "1374112419269447690": "ID Verified",
+            "1405362015790436372": "VRChat Verified"
         },
         "unverified_roles": {
-            1405361622439956521: "Unverified"
+            "1405361622439956521": "Unverified"
         },
         "owner_roles": {
-            1120021828778332241: "Owner"
+            "1120021828778332241": "Owner"
         },
         "staff_roles": {
-            1394679021022740743: "Staff",
-            1397231215848984669: "Staff"
+            "1394679021022740743": "Staff",
+            "1397231215848984669": "Staff"
         }
     },
     "chillin_furs": {
@@ -73,16 +73,17 @@
             "name": "Paw Network Verified"
         },
         "roles_to_check": {
-            1421259112133427311: "ID Verified",
-            1421259031024111647: "VRChat Verified"
+            "1421259112133427311": "ID Verified",
+            "1421259031024111647": "VRChat Verified"
         },
         "owner_roles": {
-            1329137938268815512: "Owner"
+            "1329137938268815512": "Owner"
         },
         "staff_roles": {
-            1329137152155455540: "Staff",
-            1421237554233086002: "Staff",
-            1421237807065731102: "Staff"
+            "1329137152155455540": "Staff",
+            "1421237554233086002": "Staff",
+            "1421237807065731102": "Staff"
         }
     }
 }
+
