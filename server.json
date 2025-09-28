@@ -1,4 +1,12 @@
 {
+    "status_images": {
+        "verified": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921006611599370/Verified.png?ex=68dacaa1&is=68d97921&hm=8897146409162a619c15b90ec9064801674430123fbfe3af4fc54c85fb88ae65&",
+        "unverified": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921006267928656/Unverified.png?ex=68dacaa1&is=68d97921&hm=4bc7d9d2b1ca6d6eb6711c4ba9c395eb45e48ec17e30a7544baff99094a9d680&",
+        "staff": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921005949030471/Staff.png?ex=68dacaa1&is=68d97921&hm=70934cf33d0a348bfa7c69f4d4fc2a57a1d16d43872f383baa618173fe438c2e&",
+        "owner": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921005630132418/Owner.png?ex=68dacaa1&is=68d97921&hm=95ff367dbef3bc96fd8b68ad042bee7b6b7e50e24f072b9670020c8d56e77312&",
+        "banned": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921007328825526/Banned.png?ex=68dacaa2&is=68d97922&hm=37a7236c5b4a6afc0ddc84bb6abef888e367b8a7538b818643c7275f56605727&",
+        "error": "https://cdn.discordapp.com/attachments/1421916908894162994/1421921007672889465/Error.png?ex=68dacaa2&is=68d97922&hm=f77916ab44b0ad472a6793588122f0e5aa2488986cc5d01fb231cb4653887a2a&"
+    },
     "emersed_den": {
         "id": 1333237935268561017,
         "name": "Emersed Den",
