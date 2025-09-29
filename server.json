@@ -87,6 +87,21 @@
             "1421237554233086002": "Staff",
             "1421237807065731102": "Staff"
         }
+    },
+    "furry_film_fanatics": {
+        "id": 1296880348193488916,
+        "name": "Furry Film Fanatics",
+        "public_invite_link": "https://discord.gg/WJTxjKhwfr",
+        "pnetwork_verified_role": {
+            "id": 1422362803225759754,
+            "name": "Paw Network Verified"
+        },
+        "roles_to_check": {
+            "1422362581900726363": "18+ Verified"
+        },
+        "staff_roles": {
+            "1331269356151373934": "Staff"
+        }
     }
 }
 
