@@ -10,6 +10,7 @@
     "emersed_den": {
         "id": 1333237935268561017,
         "name": "Emersed Den",
+        "invite_link": "https://discord.gg/zX8wQ6MXpk",
         "pnetwork_verified_role": {
             "id": 1421184692706607225,
             "name": "Paw Network Verified"
@@ -29,6 +30,7 @@
     "neocity": {
         "id": 1303588446132109342,
         "name": "NeoCity",
+        "invite_link": "https://discord.gg/tQW2a8PJNB",
         "pnetwork_verified_role": {
             "id": 1421186311535988796,
             "name": "Paw Network Verified"
@@ -48,6 +50,7 @@
     "golgi-s_church": {
         "id": 1119778610149064771,
         "name": "The Worshipping Church of Golgism",
+        "invite_link": "https://discord.gg/qDsehwkyu9",
         "pnetwork_verified_role": {
             "id": 1421187288863473744,
             "name": "Paw Network Verified"
@@ -67,6 +70,7 @@
     "chillin_furs": {
         "id": 1329136912195256340,
         "name": "Chilling Furs",
+        "invite_link": "https://discord.gg/vmxT2kUzNz",
         "pnetwork_verified_role": {
             "id": 1421256506120081429,
             "name": "Paw Network Verified"
