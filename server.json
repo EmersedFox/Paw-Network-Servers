@@ -109,12 +109,7 @@
         "id": 1386372830605738084,
         "name": "The Wolf's Den",
         "public_invite_link": "https://discord.gg/tS5Y5u3EKt",
-        "pnetwork_verified_role": {
-            "id": 1422378437099655338,
-            "name": "Paw Network Verified"
-        },
-        "roles_to_check": {
-            "1387140346974179470": "18+ Verified"
+        "age_verification_exempt": true
         },
         "owner_roles": {
             "1386379040247513088": "Owner"
