@@ -68,25 +68,22 @@
             "1397231215848984669": "Staff"
         }
     },
-    "chillin_furs": {
-        "id": 1329136912195256340,
-        "name": "Chilling Furs",
-        "public_invite_link": "https://discord.gg/vmxT2kUzNz",
+    "ffc": {
+        "id": 1303588772121804881,
+        "name": "FFC",
+        "public_invite_link": "https://discord.gg/xVqctYvAAn",
         "pnetwork_verified_role": {
-            "id": 1421256506120081429,
+            "id": 1442536508451197094,
             "name": "Paw Network Verified"
         },
         "roles_to_check": {
-            "1421259112133427311": "ID Verified",
-            "1421259031024111647": "VRChat Verified"
+            "1329964908103729273": "Verified"
         },
         "owner_roles": {
-            "1329137938268815512": "Owner"
+            "1396702342996561932": "Owner"
         },
         "staff_roles": {
-            "1329137152155455540": "Staff",
-            "1421237554233086002": "Staff",
-            "1421237807065731102": "Staff"
+            "1316558643490984037": "Staff",
         }
     },
     "furry_film_fanatics": {
