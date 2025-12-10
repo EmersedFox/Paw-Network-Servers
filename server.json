@@ -102,6 +102,28 @@
             "1408067752215711779": "Staff"
         }
     },
+    "furry_hangout": {
+        "id": 1409938964051394672,
+        "name": "Furry Hangout",
+        "public_invite_link": "https://discord.com/invite/6TwtWGrkZg",
+        "pnetwork_verified_role": {
+            "id": 1446464774828331049,
+            "name": "Paw Network Verified"
+        },
+        "roles_to_check": {
+            "1445919215340097616": "18+ Verified"
+        }
+        "owner-roles": {
+            "1417743724330352731": "Owner"
+        },
+        "staff_roles": {
+            "1420420202570584225": "Staff",
+            "1422664393803431989": "Staff",
+            "1412927156778041344": "Staff",
+            "1412835026222977258": "Staff",
+            "1417557019669430423": "Staff"
+        }
+    },
     "the_wolf-s_den": {
         "id": 1386372830605738084,
         "name": "The Wolf's Den",
