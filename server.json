@@ -48,6 +48,24 @@
             "1303759099028176976": "Staff In-Training"
         }
     },
+    "ffc": {
+        "id": 1303588772121804881,
+        "name": "FFC",
+        "public_invite_link": "https://discord.gg/xVqctYvAAn",
+        "pnetwork_verified_role": {
+            "id": 1442536508451197094,
+            "name": "Paw Network Verified"
+        },
+        "roles_to_check": {
+            "1329964908103729273": "Verified"
+        },
+        "owner_roles": {
+            "1396702342996561932": "Owner"
+        },
+        "staff_roles": {
+            "1316558643490984037": "Staff"
+        }
+    },
     "golgi-s_church": {
         "id": 1119778610149064771,
         "name": "The Worshipping Church of Golgism",
@@ -66,24 +84,6 @@
         "staff_roles": {
             "1394679021022740743": "Staff",
             "1397231215848984669": "Staff"
-        }
-    },
-    "ffc": {
-        "id": 1303588772121804881,
-        "name": "FFC",
-        "public_invite_link": "https://discord.gg/xVqctYvAAn",
-        "pnetwork_verified_role": {
-            "id": 1442536508451197094,
-            "name": "Paw Network Verified"
-        },
-        "roles_to_check": {
-            "1329964908103729273": "Verified"
-        },
-        "owner_roles": {
-            "1396702342996561932": "Owner"
-        },
-        "staff_roles": {
-            "1316558643490984037": "Staff"
         }
     },
     "furry_film_fanatics": {
@@ -112,7 +112,7 @@
         },
         "roles_to_check": {
             "1445919215340097616": "18+ Verified"
-        }
+        },
         "owner-roles": {
             "1417743724330352731": "Owner"
         },
