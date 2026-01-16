@@ -64,5 +64,11 @@
         "moderator_name": "emersedthefox",
         "timestamp": "2026-01-12T19:13:04.556841+00:00",
         "reason": "AI Scrapping Bot"
+    },
+    "1009498531268149300": {
+        "moderator_id": 250332112014540801,
+        "moderator_name": "emersedthefox",
+        "timestamp": "2026-01-16T02:19:35.761317+00:00",
+        "reason": "Compromised Account"
     }
 }
