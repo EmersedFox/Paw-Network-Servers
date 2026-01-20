@@ -34,5 +34,14 @@
             "timestamp": "2026-01-20T08:24:54.370972+00:00",
             "note": "Confirmed to be the Black Hat Hacker | DO NOT INTERACT OR UNBAN UNDER ANY CIRCUMSTANCES"
         }
+    ],
+    "1089704829112295434": [
+        {
+            "id": 1,
+            "moderator_id": 250332112014540801,
+            "moderator_name": "emersedthefox",
+            "timestamp": "2026-01-20T08:25:59.725524+00:00",
+            "note": "User was Compromised by the Black Hat Hacker."
+        }
     ]
 }
