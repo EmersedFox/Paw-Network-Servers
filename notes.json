@@ -43,5 +43,14 @@
             "timestamp": "2026-01-20T08:25:59.725524+00:00",
             "note": "User was Compromised by the Black Hat Hacker."
         }
+    ],
+    "100454237669961728": [
+        {
+            "id": 1,
+            "moderator_id": 250332112014540801,
+            "moderator_name": "emersedthefox",
+            "timestamp": "2026-01-21T18:54:28.396890+00:00",
+            "note": "Associated with xxNebula (Black Hat Hacker). Keep Eyes On."
+        }
     ]
 }
