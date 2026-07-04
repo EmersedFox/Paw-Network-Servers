@@ -118,5 +118,11 @@
         "moderator_name": "emersedthefox",
         "timestamp": "2026-06-30T04:02:13.329176+00:00",
         "reason": "Hacked account..."
+    },
+    "200767101839867904": {
+        "moderator_id": 250332112014540801,
+        "moderator_name": "emersedthefox",
+        "timestamp": "2026-07-04T16:19:07.827079+00:00",
+        "reason": "Attempted Hostile Takeover of the Network."
     }
 }
